@@ -1,6 +1,9 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=piyushverma2001)
+![](https://komarev.com/ghpvc/?username=piyushverma2001&style=for-the-badge&abbreviated=true)
 
+<!--
+https://github.com/antonkomarev/github-profile-views-counter
+-->
 <!--
 **piyushverma2001/piyushverma2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
